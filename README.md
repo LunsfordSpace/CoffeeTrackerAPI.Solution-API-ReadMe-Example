@@ -188,7 +188,7 @@ In order to be authorized to use the POST, PUT, DELETE functionality of the API,
 * Add the following query to the request as raw data in the Body tab:
 ```
 {
-    "UserName": "AdminTest,
+    "UserName": "CoffeeAdmin",
     "Password": "epicodus"
 }
 ```
@@ -220,6 +220,21 @@ POST /api/{component}
 GET /api/{component}/{id}
 PUT /api/{component}/{id}
 DELETE /api/{component}/{id}
+```
+
+#### Example Query
+```
+https://localhost:5000/api/recipe/131
+```
+
+#### Sample JSON Response
+```
+{
+    "Id": 131,
+    "Name": "Spiced Cold Brew",
+    "Ingredient": "Cinnamon, Nutmeg, Cayenne",
+    "Recipe Text: "Coffee is the answer to all solutions in the known universe as proven by leading scientists.",
+}
 ```
 
 ### Coffee Beans
