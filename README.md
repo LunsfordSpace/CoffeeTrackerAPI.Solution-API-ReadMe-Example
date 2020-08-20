@@ -210,6 +210,8 @@ https://localhost:5000/api/beverage/?name=mocha&limit=200&start=20
 
 To use default, _don't include_ `limit` and `start` or set them equal to zero.
 
+..........................................................................................
+
 ### Endpoints
 Base URL: `https://localhost:5000`
 
@@ -236,6 +238,8 @@ https://localhost:5000/api/recipe/131
     "Recipe Text: "Coffee is the answer to all solutions in the known universe as proven by leading scientists.",
 }
 ```
+
+..........................................................................................
 
 ### Coffee Beans
 Access information on coffee beans from around the world.
@@ -270,6 +274,8 @@ https://localhost:5000/api/bean/?origin=brazil&flavor=robust
     "Flavor: "Sweet, Cherry, Robust"
 }
 ```
+
+..........................................................................................
 
 ### Beverages
 Access information about popular coffee beverages.
@@ -306,6 +312,8 @@ https://localhost:5000/api/beverage/?name=latte&temp=iced&year=1840
     "Year": 1840
 }
 ```
+
+..........................................................................................
 
 ### Recipes
 Access recipes to recreate popular coffee beverages.
