@@ -58,7 +58,7 @@
     * <a href="#📖-description">Description</a>
     * <a href="#🦠-known-bugs">Known Bugs</a>
     * <a href="#🛠-built-with">Built With</a>
-    * <a href="#🔍-preview">Preview</a>
+    <!-- * <a href="#🔍-preview">Preview</a> -->
 * <a href="#🏁-getting-started">Getting Started</a>
     * <a href="#📋-prerequisites">Prerequisites</a>
     * <a href="#⚙️-setup-and-use">Setup and Use</a>
@@ -90,8 +90,7 @@ An API that functions as a recipe archive for coffee drinks from around the worl
 * [Swagger - NSwag 13.3.0](https://docs.microsoft.com/en-us/aspnet/core/tutorials/getting-started-with-nswag?view=aspnetcore-3.1&tabs=visual-studio)
 * [Postman](postman.com)
 
-### 🔍 Preview
-
+<!-- ### 🔍 Preview -->
 
 ------------------------------
 
