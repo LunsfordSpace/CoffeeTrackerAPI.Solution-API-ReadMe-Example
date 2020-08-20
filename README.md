@@ -86,7 +86,7 @@ An API that functions as a recipe archive for coffee drinks from around the worl
 * [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 * [ASP.NET Core MVC](https://docs.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-3.1)
 * [MySQL 8.0.20 for Linux](https://dev.mysql.com/)
-* [Entity Framework COre 2.2.6](https://docs.microsoft.com/en-us/ef/core/)
+* [Entity Framework Core 2.2.6](https://docs.microsoft.com/en-us/ef/core/)
 * [Swagger - NSwag 13.3.0](https://docs.microsoft.com/en-us/aspnet/core/tutorials/getting-started-with-nswag?view=aspnetcore-3.1&tabs=visual-studio)
 * [Postman](postman.com)
 
