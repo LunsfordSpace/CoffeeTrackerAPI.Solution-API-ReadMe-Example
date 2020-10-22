@@ -54,20 +54,20 @@
 
 ------------------------------
 ### <u>Table of Contents</u>
-* <a href="#-about-the-project"><a href="#🌐-about-the-project">About the Project</a></a>
-    * <a href="#-description"><a href="#📖-description">Description</a></a>
-    * <a href="#-known-bugs"><a href="#🦠-known-bugs">Known Bugs</a></a>
-    * <a href="#-built-with"><a href="#🛠-built-with">Built With</a></a>
-    <!-- * <a href="#-preview"><a href="#🔍-preview">Preview</a></a> -->
-* <a href="#-getting-started"><a href="#🏁-getting-started">Getting Started</a></a>
-    * <a href="#-prerequisites"><a href="#📋-prerequisites">Prerequisites</a></a>
-    * <a href="#⚙-setup-and-use"><a href="#⚙️-setup-and-use">Setup and Use</a></a>
-* <a href="#-api-documentation"><a href="#🛰️-api-documentation">API Documentation</a></a>
-* <a href="#-contributors"><a href="#🤝-contributors">Auxiliary</a></a>
-    * <a href="#-contributors"<a href="#🤝-contributors">Contributors</a></a>
-    * <a href="#-contact-and-support"><a href="#✉️-contact-and-support">Contact</a></a>
-    * <a href="#⚖-license"><a href="#⚖️-license">License</a></a>
-    * <a href="#-acknowledgements"><a href="#🌟-acknowledgements">Acknowledgements</a></a>
+* <a href="#🌐-about-the-project">About the Project</a>
+    * <a href="#📖-description">Description</a>
+    * <a href="#🦠-known-bugs">Known Bugs</a>
+    * <a href="#🛠-built-with">Built With</a>
+    <!-- * <a href="#🔍-preview">Preview</a> -->
+* <a href="#🏁-getting-started">Getting Started</a>
+    * <a href="#📋-prerequisites">Prerequisites</a>
+    * <a href="#⚙️-setup-and-use">Setup and Use</a>
+* <a href="#🛰️-api-documentation">API Documentation</a>
+* <a href="#🤝-contributors">Auxiliary</a>
+    * <a href="#🤝-contributors">Contributors</a>
+    * <a href="#✉️-contact-and-support">Contact</a>
+    * <a href="#⚖️-license">License</a>
+    * <a href="#🌟-acknowledgements">Acknowledgements</a>
     
 ------------------------------
 
