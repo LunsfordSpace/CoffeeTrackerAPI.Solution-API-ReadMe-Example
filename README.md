@@ -19,20 +19,20 @@
     </p>
     <!-- Project Shields -->
     <p align="center">
-        <a href="https://github.com/LondresRi/ReadMe-Assistance/graphs/contributors">
-            <img src="https://img.shields.io/github/contributors/LondresRi/ReadMe-Assistance.svg?style=plastic">
+        <a href="https://github.com/LondresRi/CoffeeTrackerAPI.Solution-API-ReadMe-Example/graphs/contributors">
+            <img src="https://img.shields.io/github/contributors/LondresRi/CoffeeTrackerAPI.Solution-API-ReadMe-Example.svg?style=plastic">
         </a>
         ¨
-        <a href="https://github.com/LondresRi/ReadMe-Assistance/stargazers">
-            <img src="https://img.shields.io/github/stars/LondresRi/ReadMe-Assistance.svg?color=yellow&style=plastic">
+        <a href="https://github.com/LondresRi/CoffeeTrackerAPI.Solution-API-ReadMe-Example/stargazers">
+            <img src="https://img.shields.io/github/stars/LondresRi/CoffeeTrackerAPI.Solution-API-ReadMe-Example.svg?color=yellow&style=plastic">
         </a>
         ¨
-        <a href="https://github.com/LondresRi/ReadMe-Assistance/issues">
-            <img src="https://img.shields.io/github/issues/LondresRi/ReadMe-Assistance?style=plastic">
+        <a href="https://github.com/LondresRi/CoffeeTrackerAPI.Solution-API-ReadMe-Example/issues">
+            <img src="https://img.shields.io/github/issues/LondresRi/CoffeeTrackerAPI.Solution-API-ReadMe-Example?style=plastic">
         </a>
         ¨
         <a href="https://github.com/LondresRi/Best-ReadMe-Template/blob/master/LICENSE.txt">
-            <img src="https://img.shields.io/github/license/LondresRi/ReadMe-Assistance?color=orange&style=plastic">
+            <img src="https://img.shields.io/github/license/LondresRi/CoffeeTrackerAPI.Solution-API-ReadMe-Example?color=orange&style=plastic">
         </a>
         ¨
         <a href="https://linkedin.com/in/lunsfordsk">
@@ -47,27 +47,27 @@
 
 <!-- Project Links -->
 <p align="center">
-    <a href="https://github.com/LondresRi/ReadMe-Assistance"><big>Project Docs</big></a> ·
-    <a href="https://github.com/LondresRi/ReadMe-Assistance/issues"><big>Report Bug</big></a> ·
-    <a href="https://github.com/LondresRi/ReadMe-Assistance/issues"><big>Request Feature</big></a>
+    <a href="https://github.com/LondresRi/CoffeeTrackerAPI.Solution-API-ReadMe-Example"><big>Project Docs</big></a> ·
+    <a href="https://github.com/LondresRi/CoffeeTrackerAPI.Solution-API-ReadMe-Example/issues"><big>Report Bug</big></a> ·
+    <a href="https://github.com/LondresRi/CoffeeTrackerAPI.Solution-API-ReadMe-Example/issues"><big>Request Feature</big></a>
 </p>
 
 ------------------------------
 ### <u>Table of Contents</u>
-* <a href="#🌐-about-the-project">About the Project</a>
-    * <a href="#📖-description">Description</a>
-    * <a href="#🦠-known-bugs">Known Bugs</a>
-    * <a href="#🛠-built-with">Built With</a>
-    <!-- * <a href="#🔍-preview">Preview</a> -->
-* <a href="#🏁-getting-started">Getting Started</a>
-    * <a href="#📋-prerequisites">Prerequisites</a>
-    * <a href="#⚙️-setup-and-use">Setup and Use</a>
-* <a href="#🛰️-api-documentation">API Documentation</a>
-* <a href="#🤝-contributors">Auxiliary</a>
-    * <a href="#🤝-contributors">Contributors</a>
-    * <a href="#✉️-contact-and-support">Contact</a>
-    * <a href="#⚖️-license">License</a>
-    * <a href="#🌟-acknowledgements">Acknowledgements</a>
+* <a href="#-about-the-project"><a href="#🌐-about-the-project">About the Project</a></a>
+    * <a href="#-description"><a href="#📖-description">Description</a></a>
+    * <a href="#-known-bugs"><a href="#🦠-known-bugs">Known Bugs</a></a>
+    * <a href="#-built-with"><a href="#🛠-built-with">Built With</a></a>
+    <!-- * <a href="#-preview"><a href="#🔍-preview">Preview</a></a> -->
+* <a href="#-getting-started"><a href="#🏁-getting-started">Getting Started</a></a>
+    * <a href="#-prerequisites"><a href="#📋-prerequisites">Prerequisites</a></a>
+    * <a href="#⚙-setup-and-use"><a href="#⚙️-setup-and-use">Setup and Use</a></a>
+* <a href="#-api-documentation"><a href="#🛰️-api-documentation">API Documentation</a></a>
+* <a href="#-contributors"><a href="#🤝-contributors">Auxiliary</a></a>
+    * <a href="#-contributors"<a href="#🤝-contributors">Contributors</a></a>
+    * <a href="#-contact-and-support"><a href="#✉️-contact-and-support">Contact</a></a>
+    * <a href="#⚖-license"><a href="#⚖️-license">License</a></a>
+    * <a href="#-acknowledgements"><a href="#🌟-acknowledgements">Acknowledgements</a></a>
     
 ------------------------------
 
@@ -128,7 +128,7 @@ An API that functions as a recipe archive for coffee drinks from around the worl
 
   #### Cloning
 
-  1) Navigate to the [LondresRi CoffeeTracker API repository here](https://github.com/LondresRi/ReadMe-Assistance).
+  1) Navigate to the [LondresRi CoffeeTracker API repository here](https://github.com/LondresRi/CoffeeTrackerAPI.Solution-API-ReadMe-Example).
   2) Click 'Clone or download' to reveal the HTTPS url ending with .git and the 'Download ZIP' option.
   3) Open up your system Terminal or GitBash, navigate to your desktop with the command: `cd Desktop`, or whichever location suits you best.
   4) Clone the repository to your desktop: `$ git clone https://github.com/LondresRi/CoffeeTrackerAPI.Solution.git`
@@ -139,7 +139,7 @@ An API that functions as a recipe archive for coffee drinks from around the worl
 
   #### Download
 
-  1) Navigate to the [LondresRi CoffeeTracker API repository here](https://github.com/LondresRi/ReadMe-Assistance).
+  1) Navigate to the [LondresRi CoffeeTracker API repository here](https://github.com/LondresRi/CoffeeTrackerAPI.Solution-API-ReadMe-Example).
   2) Click 'Clone or download' to reveal the HTTPS url ending with .git and the 'Download ZIP' option.
   3) Click 'Download ZIP' and unextract.
   4) Open by double clicking on any of the files to open in a text editor.
@@ -362,8 +362,8 @@ https://localhost:5000/api/recipe/?name=latte&ingredient=chocolate
 If you have any feedback or concerns, please contact one of the contributors.
 
 <p>
-    <a href="https://github.com/LondresRi/ReadMe-Assistance/issues">Report Bug</a> ·
-    <a href="https://github.com/LondresRi/ReadMe-Assistance/issues">Request Feature</a>
+    <a href="https://github.com/LondresRi/CoffeeTrackerAPI.Solution-API-ReadMe-Example/issues">Report Bug</a> ·
+    <a href="https://github.com/LondresRi/CoffeeTrackerAPI.Solution-API-ReadMe-Example/issues">Request Feature</a>
 </p>
 
 ------------------------------
