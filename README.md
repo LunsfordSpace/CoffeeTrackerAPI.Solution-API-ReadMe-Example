@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-  <small>Initiated August 20th, 2020.</small>
+  <small>Initiated August 20th, 2020. Updated October 22nd, 2020.</small>
 </p>
 
 <!-- Project Links -->
