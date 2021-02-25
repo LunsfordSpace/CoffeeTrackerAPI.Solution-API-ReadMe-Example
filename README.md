@@ -5,7 +5,7 @@
 <p align="center">
     <!-- Project Avatar/Logo -->
     <br>
-    <a href="https://github.com/LondresRi">
+    <a href="https://github.com/LunsfordSK">
         <img src="https://avatars1.githubusercontent.com/u/46427680?s=150&v=4">
     </a>
     <p align="center">
@@ -13,26 +13,26 @@
     </p>
     <!-- GitHub Link -->
     <p align="center">
-        <a href="https://github.com/LondresRi">
-            <strong>LondresRi</strong>
+        <a href="https://github.com/LunsfordSK">
+            <strong>LunsfordSK</strong>
         </a>
     </p>
     <!-- Project Shields -->
     <p align="center">
-        <a href="https://github.com/LondresRi/CoffeeTrackerAPI.Solution-API-ReadMe-Example/graphs/contributors">
-            <img src="https://img.shields.io/github/contributors/LondresRi/CoffeeTrackerAPI.Solution-API-ReadMe-Example.svg?style=plastic">
+        <a href="https://github.com/LunsfordSK/CoffeeTrackerAPI.Solution-API-ReadMe-Example/graphs/contributors">
+            <img src="https://img.shields.io/github/contributors/LunsfordSK/CoffeeTrackerAPI.Solution-API-ReadMe-Example.svg?style=plastic">
         </a>
         ¨
-        <a href="https://github.com/LondresRi/CoffeeTrackerAPI.Solution-API-ReadMe-Example/stargazers">
-            <img src="https://img.shields.io/github/stars/LondresRi/CoffeeTrackerAPI.Solution-API-ReadMe-Example.svg?color=yellow&style=plastic">
+        <a href="https://github.com/LunsfordSK/CoffeeTrackerAPI.Solution-API-ReadMe-Example/stargazers">
+            <img src="https://img.shields.io/github/stars/LunsfordSK/CoffeeTrackerAPI.Solution-API-ReadMe-Example.svg?color=yellow&style=plastic">
         </a>
         ¨
-        <a href="https://github.com/LondresRi/CoffeeTrackerAPI.Solution-API-ReadMe-Example/issues">
-            <img src="https://img.shields.io/github/issues/LondresRi/CoffeeTrackerAPI.Solution-API-ReadMe-Example?style=plastic">
+        <a href="https://github.com/LunsfordSK/CoffeeTrackerAPI.Solution-API-ReadMe-Example/issues">
+            <img src="https://img.shields.io/github/issues/LunsfordSK/CoffeeTrackerAPI.Solution-API-ReadMe-Example?style=plastic">
         </a>
         ¨
-        <a href="https://github.com/LondresRi/Best-ReadMe-Template/blob/master/LICENSE.txt">
-            <img src="https://img.shields.io/github/license/LondresRi/CoffeeTrackerAPI.Solution-API-ReadMe-Example?color=orange&style=plastic">
+        <a href="https://github.com/LunsfordSK/Best-ReadMe-Template/blob/master/LICENSE.txt">
+            <img src="https://img.shields.io/github/license/LunsfordSK/CoffeeTrackerAPI.Solution-API-ReadMe-Example?color=orange&style=plastic">
         </a>
         ¨
         <a href="https://linkedin.com/in/lunsfordsk">
@@ -42,14 +42,14 @@
 </p>
 
 <p align="center">
-  <small>Initiated August 20th, 2020. Updated October 22nd, 2020.</small>
+  <small>Initiated August 20th, 2020. Updated February 24th, 2021.</small>
 </p>
 
 <!-- Project Links -->
 <p align="center">
-    <a href="https://github.com/LondresRi/CoffeeTrackerAPI.Solution-API-ReadMe-Example"><big>Project Docs</big></a> ·
-    <a href="https://github.com/LondresRi/CoffeeTrackerAPI.Solution-API-ReadMe-Example/issues"><big>Report Bug</big></a> ·
-    <a href="https://github.com/LondresRi/CoffeeTrackerAPI.Solution-API-ReadMe-Example/issues"><big>Request Feature</big></a>
+    <a href="https://github.com/LunsfordSK/CoffeeTrackerAPI.Solution-API-ReadMe-Example"><big>Project Docs</big></a> ·
+    <a href="https://github.com/LunsfordSK/CoffeeTrackerAPI.Solution-API-ReadMe-Example/issues"><big>Report Bug</big></a> ·
+    <a href="https://github.com/LunsfordSK/CoffeeTrackerAPI.Solution-API-ReadMe-Example/issues"><big>Request Feature</big></a>
 </p>
 
 ------------------------------
@@ -128,10 +128,10 @@ An API that functions as a recipe archive for coffee drinks from around the worl
 
   #### Cloning
 
-  1) Navigate to the [LondresRi CoffeeTracker API repository here](https://github.com/LondresRi/CoffeeTrackerAPI.Solution-API-ReadMe-Example).
+  1) Navigate to the [LunsfordSK CoffeeTracker API repository here](https://github.com/LunsfordSK/CoffeeTrackerAPI.Solution-API-ReadMe-Example).
   2) Click 'Clone or download' to reveal the HTTPS url ending with .git and the 'Download ZIP' option.
   3) Open up your system Terminal or GitBash, navigate to your desktop with the command: `cd Desktop`, or whichever location suits you best.
-  4) Clone the repository to your desktop: `$ git clone https://github.com/LondresRi/CoffeeTrackerAPI.Solution.git`
+  4) Clone the repository to your desktop: `$ git clone https://github.com/LunsfordSK/CoffeeTrackerAPI.Solution.git`
   5) Run the command `cd CoffeeTrackerAPI.Solution` to enter into the project directory.
   6) View or Edit:
       * Code Editor - Run the command `atom .` or `code .` to open the project in Atom or VisualStudio Code respectively for review and editing.
@@ -139,7 +139,7 @@ An API that functions as a recipe archive for coffee drinks from around the worl
 
   #### Download
 
-  1) Navigate to the [LondresRi CoffeeTracker API repository here](https://github.com/LondresRi/CoffeeTrackerAPI.Solution-API-ReadMe-Example).
+  1) Navigate to the [LunsfordSK CoffeeTracker API repository here](https://github.com/LunsfordSK/CoffeeTrackerAPI.Solution-API-ReadMe-Example).
   2) Click 'Clone or download' to reveal the HTTPS url ending with .git and the 'Download ZIP' option.
   3) Click 'Download ZIP' and unextract.
   4) Open by double clicking on any of the files to open in a text editor.
@@ -353,7 +353,7 @@ https://localhost:5000/api/recipe/?name=latte&ingredient=chocolate
 
 | Author | GitHub | Email |
 |--------|:------:|:-----:|
-| [Shawn Lunsford](https://linkedin.com/in/lunsfordsk) | [LondresRi](https://github.com/LondresRi) |  [lunsford.sk@gmail.com](mailto:lunsford.sk@gmail.com) |
+| [Shawn Lunsford](https://linkedin.com/in/lunsfordsk) | [LunsfordSK](https://github.com/LunsfordSK) |  [lunsford.sk@gmail.com](mailto:lunsford.sk@gmail.com) |
 
 ------------------------------
 
@@ -362,19 +362,20 @@ https://localhost:5000/api/recipe/?name=latte&ingredient=chocolate
 If you have any feedback or concerns, please contact one of the contributors.
 
 <p>
-    <a href="https://github.com/LondresRi/CoffeeTrackerAPI.Solution-API-ReadMe-Example/issues">Report Bug</a> ·
-    <a href="https://github.com/LondresRi/CoffeeTrackerAPI.Solution-API-ReadMe-Example/issues">Request Feature</a>
+    <a href="https://github.com/LunsfordSK/CoffeeTrackerAPI.Solution-API-ReadMe-Example/issues">Report Bug</a> ·
+    <a href="https://github.com/LunsfordSK/CoffeeTrackerAPI.Solution-API-ReadMe-Example/issues">Request Feature</a>
 </p>
 
 ------------------------------
 
 ### ⚖️ License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Copyright (C) 2020 Shawn Lunsford. All Rights Reserved.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Copyright (C) 2021 Shawn Lunsford. All Rights Reserved.
+
 ```
 MIT License
 
-Copyright (c) 2020 Shawn Lunsford.
+Copyright (c) 2021 Shawn Lunsford.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
